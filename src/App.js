@@ -71,10 +71,10 @@ class App extends Component {
                 y="0"
                 width="100%"
                 height="100%"
-                flood-color="#888888"
-                flood-opacity=".5"
+                flood-color="#888899"
+                flood-opacity=".8"
               />
-              <feBlend in="SourceGraphic" in2="floodFill" mode="color-burn" />
+              <feBlend in="SourceGraphic" in2="floodFill" mode="multiply" />
             </filter>
 
             <filter id="blend">
