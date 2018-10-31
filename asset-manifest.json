@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.188a9b55.chunk.css",
-  "main.js": "/static/js/main.b400105d.chunk.js",
-  "main.js.map": "/static/js/main.b400105d.chunk.js.map",
-  "static/js/1.37f90d57.chunk.js": "/static/js/1.37f90d57.chunk.js",
-  "static/js/1.37f90d57.chunk.js.map": "/static/js/1.37f90d57.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.188a9b55.chunk.css.map": "/static/css/main.188a9b55.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.0410722193b2728cf737fb42912deac5.js": "/precache-manifest.0410722193b2728cf737fb42912deac5.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/ginetta-logo/static/css/main.188a9b55.chunk.css",
+  "main.js": "/ginetta-logo/static/js/main.8b311766.chunk.js",
+  "main.js.map": "/ginetta-logo/static/js/main.8b311766.chunk.js.map",
+  "static/js/1.37f90d57.chunk.js": "/ginetta-logo/static/js/1.37f90d57.chunk.js",
+  "static/js/1.37f90d57.chunk.js.map": "/ginetta-logo/static/js/1.37f90d57.chunk.js.map",
+  "runtime~main.js": "/ginetta-logo/static/js/runtime~main.3da48e4c.js",
+  "runtime~main.js.map": "/ginetta-logo/static/js/runtime~main.3da48e4c.js.map",
+  "static/media/logo.svg": "/ginetta-logo/static/media/logo.5d5d9eef.svg",
+  "static/css/main.188a9b55.chunk.css.map": "/ginetta-logo/static/css/main.188a9b55.chunk.css.map",
+  "index.html": "/ginetta-logo/index.html",
+  "precache-manifest.63eacc42d6dfc586ca109132e1f87de6.js": "/ginetta-logo/precache-manifest.63eacc42d6dfc586ca109132e1f87de6.js",
+  "service-worker.js": "/ginetta-logo/service-worker.js"
 }
