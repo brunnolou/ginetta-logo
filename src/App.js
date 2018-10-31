@@ -44,7 +44,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <svg class="svg" width="80%" viewBox="0 0 100 150">
+        <svg class="svg" width="100%" viewBox="0 0 100 150">
           <defs>
             <filter id="distortion">
               <feTurbulence
