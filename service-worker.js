@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ginetta-logo/precache-manifest.63eacc42d6dfc586ca109132e1f87de6.js"
+  "/ginetta-logo/precache-manifest.c2edfa0e9649ff8bf070619835ef570d.js"
 );
 
 workbox.clientsClaim();

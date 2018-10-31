@@ -1,7 +1,7 @@
 {
   "main.css": "/ginetta-logo/static/css/main.188a9b55.chunk.css",
-  "main.js": "/ginetta-logo/static/js/main.8b311766.chunk.js",
-  "main.js.map": "/ginetta-logo/static/js/main.8b311766.chunk.js.map",
+  "main.js": "/ginetta-logo/static/js/main.479e72b7.chunk.js",
+  "main.js.map": "/ginetta-logo/static/js/main.479e72b7.chunk.js.map",
   "static/js/1.37f90d57.chunk.js": "/ginetta-logo/static/js/1.37f90d57.chunk.js",
   "static/js/1.37f90d57.chunk.js.map": "/ginetta-logo/static/js/1.37f90d57.chunk.js.map",
   "runtime~main.js": "/ginetta-logo/static/js/runtime~main.3da48e4c.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/ginetta-logo/static/media/logo.5d5d9eef.svg",
   "static/css/main.188a9b55.chunk.css.map": "/ginetta-logo/static/css/main.188a9b55.chunk.css.map",
   "index.html": "/ginetta-logo/index.html",
-  "precache-manifest.63eacc42d6dfc586ca109132e1f87de6.js": "/ginetta-logo/precache-manifest.63eacc42d6dfc586ca109132e1f87de6.js",
+  "precache-manifest.c2edfa0e9649ff8bf070619835ef570d.js": "/ginetta-logo/precache-manifest.c2edfa0e9649ff8bf070619835ef570d.js",
   "service-worker.js": "/ginetta-logo/service-worker.js"
 }
